@@ -1,0 +1,10 @@
+17:59:24 **** Incremental Build of configuration Debug for project InClassActivity1B ****
+make -j10 all 
+arm-none-eabi-size  InClassActivity1B.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6136	     12	   1572	   7720	   1e28	InClassActivity1B.elf
+Finished building: default.size.stdout
+ 
+
+17:59:24 Build Finished. 0 errors, 0 warnings. (took 208ms)
+

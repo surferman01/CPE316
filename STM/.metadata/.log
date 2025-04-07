@@ -1,0 +1,73 @@
+!SESSION 2025-04-02 17:12:02.063 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/bensoto/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/bensoto/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-02 17:13:23.736
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-02 17:13:23.739
+!MESSAGE Log4j2 initialized with config file /Users/bensoto/Documents/Cal Poly Courses/CPE316/STM/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-02 17:13:29.299
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2025-04-02 17:13:29.312
+!MESSAGE ProjectImporter: mdfind -name lsregister didn't returned anything
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-02 17:49:43.923
+!MESSAGE Indexed 'InClassActivity1' (21 sources, 80 headers) in 3.34 sec: 4,844 declarations; 22,796 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0072%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-02 17:54:49.835
+!MESSAGE Indexed 'InClassActivity1' (21 sources, 80 headers) in 2.26 sec: 4,844 declarations; 22,829 references; 0 unresolved inclusions; 1 syntax errors; 6 unresolved names (0.022%)
+
+!ENTRY org.eclipse.jface 2 0 2025-04-04 16:56:35.354
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-04-04 16:56:35.354
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.cdt.ui.navigate.opentype"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.cdt.ui.navigate.opentype"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-04-04 16:56:35.354
+!MESSAGE A conflict occurred for COMMAND+SHIFT+H:
+Binding(COMMAND+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.cdt.ui.navigate.open.type.in.hierarchy"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(COMMAND+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.cdt.ui.navigate.open.type.in.hierarchy"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-04 16:56:53.260
+!MESSAGE Indexed 'InClassActivity1B' (21 sources, 80 headers) in 4.27 sec: 4,838 declarations; 22,714 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0073%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-04 17:27:27.258
+!MESSAGE Indexed 'InClassActivity1B' (21 sources, 80 headers) in 1.79 sec: 4,845 declarations; 22,871 references; 0 unresolved inclusions; 1 syntax errors; 5 unresolved names (0.018%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-04 17:27:38.827
+!MESSAGE Indexed 'InClassActivity1B' (21 sources, 80 headers) in 1.8 sec: 4,845 declarations; 22,871 references; 0 unresolved inclusions; 1 syntax errors; 5 unresolved names (0.018%)
